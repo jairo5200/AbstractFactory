@@ -1,0 +1,8 @@
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\bin\Debug\AbstractFactoryAutomovil.exe
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\bin\Debug\AbstractFactoryAutomovil.pdb
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryRopa.csprojResolveAssemblyReference.cache
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.Cliente.resources
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.Properties.Resources.resources
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryRopa.csproj.GenerateResource.Cache
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.exe
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.pdb

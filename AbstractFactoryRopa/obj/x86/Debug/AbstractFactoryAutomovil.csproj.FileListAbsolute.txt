@@ -1,0 +1,11 @@
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\bin\Debug\AbstractFactoryAutomovil.exe
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\bin\Debug\AbstractFactoryAutomovil.pdb
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.Cliente.resources
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.Properties.Resources.resources
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.exe
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.pdb
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.exe
+C:\Users\jairo\Downloads\fabrica auto\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.pdb
